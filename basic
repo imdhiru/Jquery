@@ -1,0 +1,4 @@
+<script>$(".homepage .main-image-wrapper img").wrap("<a href='/page'></a>'");</script>
+for insert anchor on any img or div
+
+
